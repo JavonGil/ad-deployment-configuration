@@ -8,9 +8,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>⚠️ Prerequisites</h2>
 
-- [Creating Virtual Machines in the Cloud](https://github.com/joshuaheck1/VM-creation)
+- [Creating Virtual Machines in the Cloud](https://github.com/JavonGil/Creating-VM-S)
   
-- [Create Active Directory Infrastructure in Azure](https://github.com/joshuaheck1/create-ad-infrastructure)
+- [Create Active Directory Infrastructure in Azure](https://github.com/JavonGil/Creating-ad-infrastructure)
 
 <h2>💻 Environments and Technologies Used</h2>
 
@@ -19,7 +19,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Remote Desktop
 - Active Directory Domain Services
 
-<h2>👨‍💻 Operating Systems Used </h2>
+<h2>🖥️ Operating Systems Used </h2>
 
 - macOS Sequoia
 - Windows Server 2022
@@ -118,7 +118,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-<img width="800" alt="Screenshot 2025-04-23 at 1 12 32 AM" src="https://github.com/user-attachments/assets/77357c2e-c68f-4366-af58-6acca7881af0" />
+<img width="765" alt="Screenshot 2025-06-04 at 5 35 30 PM" src="https://github.com/user-attachments/assets/1e793a7e-fdb7-4493-b17e-b27d19f3f3f2" />
 </p>
 <p>
  - Remote Desktop back into DC-1. Since DC-1 is now a domain controller and on the domain, you have to specify which domain, and that you want to log on as a domain user.</p>  
@@ -329,7 +329,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>✅ Conclusion</h2>
 
-<p>This concludes our project. We did it! AD has been successfully deployed. We will add a bunch of users next. Don't forget to Stop (turn off) the VMs in Azure. As always, Thank You for your time and viewing this Project. We'll see you on the next one! 😎      
+<p>That wraps up this project. We did it — Active Directory has been successfully deployed on our domain controller in Azure. From setting up the VMs to configuring the environment, everything is now in place and ready to grow. Next up, we’ll be adding a bunch of user accounts to the domain, which is a key part of managing any network. It’s where things really start to feel real. Make sure to stop your VMs in Azure to save resources. Appreciate you tapping in. See you in the next one 😎     
 </p>
 <br />
 
