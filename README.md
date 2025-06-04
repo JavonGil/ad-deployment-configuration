@@ -122,7 +122,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
  - Remote Desktop back into DC-1. Since DC-1 is now a domain controller and on the domain, you have to specify which domain, and that you want to log on as a domain user.</p>  
-<p>- Enter "mydomain.com\jheck1" (mydomain.com\username)</p>
+<p>- Enter "mydomain.com\labuser" (mydomain.com\username)</p>
 <p>- This will log us in as a specific user within the domain.</p>
 <br />
 
