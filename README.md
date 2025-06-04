@@ -329,7 +329,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>✅ Conclusion</h2>
 
-<p>That wraps up this project. We did it — Active Directory has been successfully deployed on our domain controller in Azure. From setting up the VMs to configuring the environment, everything is now in place and ready to grow. Next up, we’ll be adding a bunch of user accounts to the domain, which is a key part of managing any network. It’s where things really start to feel real. Make sure to stop your VMs in Azure to save resources. Appreciate you tapping in. See you in the next one 😎     
+<p>That wraps up this project. We did it Active Directory has been successfully deployed on our domain controller in Azure. From setting up the VMs to configuring the environment, everything is now in place and ready to grow. Next up, we’ll be adding a bunch of user accounts to the domain, which is a key part of managing any network. It’s where things really start to feel real. Make sure to stop your VMs in Azure to save resources. Appreciate you tapping in. See you in the next one 😎     
 </p>
 <br />
 
